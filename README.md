@@ -21,3 +21,10 @@ consider applying for a [career with us][career].
 [contrib]: CONTRIBUTING.md
 [career]: https://www.intelligencecareers.gov/nsa
 [project]: https://www.ghidra-sre.org/
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
